@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Ayush Kumar
 
-### 🚀 Aspiring Machine Learning & Generative AI Engineer
+### 🚀 ML Engineer • GenAI Builder • Backend Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;Generative+AI+Developer;Building+AI+Products;Backend+Developer;Always+Learning+New+Things" />
 
